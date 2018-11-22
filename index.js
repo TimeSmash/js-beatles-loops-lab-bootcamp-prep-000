@@ -22,4 +22,7 @@ x = x + 1;  }
 return arrayOfFacts;
 }
 
-function iLoveTheBeatles
+function iLoveTheBeatles (Number) {
+  var emptinessArray = [];
+  do {} while {}
+}
