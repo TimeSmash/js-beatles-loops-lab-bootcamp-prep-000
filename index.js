@@ -24,7 +24,7 @@ return arrayOfFacts;
 
 function iLoveTheBeatles (Number) {
   var emptinessArray = [];
-  do {
+  do {array.unshift("I love the Beatles!")
     
   } while ()
 
