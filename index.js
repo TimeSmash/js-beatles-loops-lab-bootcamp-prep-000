@@ -11,10 +11,11 @@ return emptyArray;
   }
 }
 
-function johnLennonFacts (arrayOfFacts) {
 const facts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and a boy scout", "He hated the sound of his own voice"];
+function johnLennonFacts (arrayOfFacts) 
 // need to return all strings in array with "!!!" at end 
-while (array.length < 5) {
+// Need to use while loop. If the array has all !!! at end of strings, then adding !!! should stop
+while (arrayOfFacts.length < 5) {
 return facts + "!!!"}
   
 }
