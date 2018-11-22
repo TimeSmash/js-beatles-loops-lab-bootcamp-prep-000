@@ -24,8 +24,8 @@ return arrayOfFacts;
 
 function iLoveTheBeatles (Number) {
   var emptinessArray = [];
-  do {array.unshift("I love the Beatles!")
-    
+  do {array.unshift("I love the Beatles!");
+  Number++;
   } while ()
 
 }
