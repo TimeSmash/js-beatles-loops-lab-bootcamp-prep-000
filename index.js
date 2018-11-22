@@ -13,7 +13,8 @@ return emptyArray;
 
 function johnLennonFacts (arrayOfFacts) {
 const facts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and a boy scout", "He hated the sound of his own voice"];
-while (x < 5) {
-+ "!!!"}
+// need to return all strings in array with "!!!" at end 
+while (array.length < 5) {
+return facts + "!!!"}
   
 }
