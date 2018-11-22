@@ -26,6 +26,5 @@ function iLoveTheBeatles (Number) {
   var emptinessArray = [];
   do {array.unshift("I love the Beatles!");
   Number++;
-  } while ()
-
+  } while (Number < 15);
 }
