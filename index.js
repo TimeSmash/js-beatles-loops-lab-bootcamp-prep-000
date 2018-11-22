@@ -16,7 +16,7 @@ function johnLennonFacts (arrayOfFacts) {
 // need to return all strings in array with "!!!" at end
 // Need to use while loop. If the array has all !!! at end of strings, then adding !!! should stop
  var x = 0;
-while (x < 4) {
+while (x < array.length) {
 arrayOfFacts[x] = arrayOfFacts[x] + "!!!";
 x = x + 1;  }
 return arrayOfFacts;
