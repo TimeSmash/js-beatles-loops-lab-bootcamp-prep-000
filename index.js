@@ -24,7 +24,7 @@ return arrayOfFacts;
 
 function iLoveTheBeatles (Number) {
   var emptinessArray = [];
-  do {array.unshift("I love the Beatles!");
+  do {emptinessArray.unshift("I love the Beatles!");
   Number++;
   } while (Number < 15);
 }
