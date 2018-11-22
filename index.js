@@ -15,8 +15,8 @@ const facts = ["He was the last Beatle to learn to drive", "He was never a veget
 function johnLennonFacts (arrayOfFacts) { 
 // need to return all strings in array with "!!!" at end 
 // Need to use while loop. If the array has all !!! at end of strings, then adding !!! should stop
-while (x < 5) {
  var x = 0;
-return arrayofFacts[x] + "!!!"
+while (x < 5) {
+arrayOfFacts[x] = arrayOfFacts + "!!!";
 x = x + 1;  }
 }
